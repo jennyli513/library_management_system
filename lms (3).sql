@@ -53,6 +53,9 @@ CREATE TABLE `tbladmin` (
 --
 
 INSERT INTO `tbladmin` (`id`, `firstname`, `lastname`, `email`, `username`, `hashed_password`) VALUES
+<<<<<<< HEAD
+=======
+
 (13, 'Daniel', 'Sun', 'jennyxixi11@gmail.com', 'danielsun', '$2y$10$clwsUGZV7FbEav6nLWRURuVwE8oalxU.mjcsZK18mdbac8PjbXZIG');
 
 -- --------------------------------------------------------
